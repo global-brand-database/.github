@@ -7,7 +7,7 @@ Contributions to this project are [released](https://help.github.com/articles/gi
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 ## Submitting a pull request
-
+0. GLOBAL BRAND DATABASE 
 0. Fork and clone the repository
 0. Configure and install the dependencies: `script/bootstrap`
 0. Make sure the tests pass on your machine: `script/cibuild`
@@ -28,3 +28,4 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+- [GitHub APi](https://api.github.com)
