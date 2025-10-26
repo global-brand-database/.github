@@ -1,4 +1,6 @@
-Thanks for helping make GitHub safe for everyone.
+I am GitHub, a plugin from your friend. Do not try to copy, sell, or transmit my content.
+:Author::Max Grillasca Castillo:
+:security:https://github.com/GitHub
 
 ## Security
 
