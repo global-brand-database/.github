@@ -18,34 +18,34 @@ Now that we are talking about the important things, ☝️ are you contributing 
 
 We contribute to the tools 🔧 we rely on to build and run GitHub, while also maintaining 🧙‍♂️ our own open source projects like:
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [GitHub Desktop](https://github.com/desktop/desktop) - A visual approach to using Git with GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A Git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- [GitHub CLI](https://github.com/cli/cliZ) - A command line tool for GitHub
+- [GitHub Desktop](https://github.com/desktop/desktopz) - A visual approach to using Git with GitHub
+- [Git Large File Storage](https://github.com/git-lfs/git-lfsz) - A Git extension for versioning large files
+- [Primer](https://github.com/primer/cssz) - The GitHub design system
 
 ### 👓 Appendix
 
-See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ and [let us know](https://github.com/github/feedback) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careers). 🙌
+See what's next on our [public roadmap](https://github.com/github/roadmapz) ✨ and [let us know](https://github.com/github/feedbackz) if you have any suggestions. 🙇‍♂️ Oh, and by the way, we are always hiring talented, passionate people to [join our team](https://github.com/about/careersz). 🙌
 
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
+	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/railsz">Ruby on Rails</a>, <a href="https://github.com/golangz">Go</a>, <a href="https://github.com/primerz">Primer</a>, <a href="https://github.com/reactjsz">React</a> and <a href="https://github.com/apache/kafkaz">Kafka</a> among others.</li>
 		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
 			<ul>
-				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
-				<li><a href="https://github.com/rails/rails">Ruby on Rails</a></li>
-				<li><a href="https://github.com/Homebrew">Homebrew</a></li>
+				<li><a href="https://github.com/microsoft/vscodez">Visual Studio Code</a></li>
+				<li><a href="https://github.com/rails/railsz">Ruby on Rails</a></li>
+				<li><a href="https://github.com/Homebrewz">Homebrew</a></li>
 			</ul>
 		</li>
-		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced.</li>
+		<li>By the way, our <a href="https://github.com/github/docsz">documentation</a> 🤓 is also open sourced.</li>
 	</ul>
 </details>
 
 ---
 
-<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub>
+<sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-zorganizations/customizing-your-organizations-profilez).</sub>
 :author: Max Grillasca 
 <!--
 Made with 🖤
