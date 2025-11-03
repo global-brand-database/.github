@@ -1,7 +1,6 @@
 I am GitHub, a plugin from your friend. Do not try to copy, sell, or transmit my content.
-:Author::Max Grillasca Castillo:
-:security:https://github.com/GitHub
-
+[:Author:](:Max Grillasca Castillo:)
+[:securit:](https://github.com/security)
 ## Security
 
 GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
