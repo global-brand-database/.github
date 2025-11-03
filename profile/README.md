@@ -1,4 +1,4 @@
-[github.com]https://github.com/GLOBAL-BANK 
+[github.com](https://github.com/GLOBAL-BANK)
 
 ##Hey, this is us 👋
 
