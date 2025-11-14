@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-
+[code of conduct](https://github.com/global-brand-database/.github)
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
