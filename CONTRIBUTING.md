@@ -1,4 +1,4 @@
-## Contributing
+## Global Brand Database 
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
@@ -28,3 +28,4 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
+- [Depositary GitHub](https://github.com//search?q=GitHub&type=repositories)
